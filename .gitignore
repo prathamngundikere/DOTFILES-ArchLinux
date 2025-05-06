@@ -7,3 +7,5 @@ pulse
 systemd
 vlc
 yay
+user-dirs.dirs
+user-dirs.locale
