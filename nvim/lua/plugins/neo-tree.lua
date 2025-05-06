@@ -8,6 +8,9 @@ return {
     },
     lazy = false, -- neo-tree will lazily load itself
     opts = {
+      window = {
+      width = 20,
+    },
       -- fill any relevant options here
   },
   config = function()
