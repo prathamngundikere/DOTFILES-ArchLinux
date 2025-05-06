@@ -2,6 +2,11 @@ theme = GitHub-Dark-Default
 font-size = 13
 background-opacity = 0.85
 
+# Cursor settings
+cursor-color = #a0e9ca
+cursor-style = block
+cursor-style-blink = true
+
 # This is the configuration file for Ghostty.
 #
 # This template file has been automatically created at the following
